@@ -1,4 +1,4 @@
-## PeFLL: A Lifelong Learning Approach to Personalized Federated Learning
+## PeFLL: Personalized Federated Learning by Learning to Learn
 This is code implements the PeFLL algorithm.
 
 #### Installation
